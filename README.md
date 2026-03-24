@@ -47,6 +47,14 @@
 <br/>
 
 ### 📖 Study
+**[파일 변경 감지(inotify)를 활용한 Spring Boot 자동 배포 구현](https://github.com/HiLeeS/Linux-inotify_Lab)** `#Linux`
+- 리눅스의 파일 변경 감지 기능(inotify)을 활용하여, 코드 변경 시 애플리케이션이 자동으로 재배포되도록 구현
+- 👥 Team 2인 : 2026.03
+
+**[DevOps 상황에서 Linux 명령어 문제 가이드](https://github.com/d5cker/linux-comm-lab)** `#Linux`
+- Linux 명령어를 활용해 로그파일과 설정파일을 분석하는 데이터 처리 및 검증 실습
+- 👥 Team 5인 : 2026.03
+
 **[vCenter 인프라 구축](https://github.com/minykang/vmware-virtualization-lab)** `#Infra`
 - vCenter를 활용한 가상화 인프라 설계 및 구축
 - 👥 Team 6인 : 2026.03
